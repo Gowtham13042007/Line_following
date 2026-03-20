@@ -6,19 +6,7 @@ A ROS 2 differential-drive robot that autonomously follows a black line on a whi
 
 ## 📽️ Demo Video
 
-<!-- ✅ HOW TO ADD YOUR VIDEO -->
-<!-- Option 1: Upload to YouTube and paste the link below -->
-[![Line Following Robot Demo](https://img.shields.io/badge/▶%20Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/your-video-link-here)
-
-<!-- Option 2: If your video is in this repo (under 50 MB), use this instead: -->
-<!-- <video src="docs/demo.mp4" controls width="720"></video> -->
-
-<!-- Option 3: Animated GIF (best for GitHub previews) -->
-<!-- ![Demo GIF](docs/demo.gif) -->
-
-> 📌 **To embed your video:** Upload it to YouTube → click *Share* → copy the URL → replace the link above.
-> Or record a short clip, convert to GIF with [ezgif.com](https://ezgif.com/video-to-gif), drop it in a `docs/` folder, and use Option 3.
-
+ADDED ABOVE 
 ---
 
 ## 📁 Project Structure
